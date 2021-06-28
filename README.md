@@ -4,7 +4,6 @@ Cyclistic is a bike-share program that has a fleet of 5824 that are geotracked a
 
 <br>
 
-
 ### ASK
 <br>
 First, I defined the business question that my analysis intends to answer : "How do annual members and casual riders use Cyclistic bikes differently?". The key stakeholders in this project are the Director of Marketing, the marketing analytics team and the executive team. 
