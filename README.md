@@ -29,7 +29,6 @@ Another insight that I gathered is that the number of trips are the highest on S
 <br>
 
 The type of bike being used the most by casual riders and members is the docked bike, followed by the classic bike and then the electric bike. The next step in my analysis was to create a month variable to analyze season-based trends in ridership. For both casual riders and members, the months of June, July and August showed the highest riderships, which again makes sense as these are the summer months in Chicago. The last step was to analyse the median trip duartion for casual riders and casual riders had the highest median trip durations, in the summer months as well as the rest of the year, as opposed to annual members. 
-
 <br>
 
 ### SHARE
